@@ -1,0 +1,9 @@
+.day-theme{
+  background-color: antiquewhite;
+  color: darkslategrey;
+}
+
+.night-theme{
+  background-color: darkslategrey;
+  color: antiquewhite;
+}
